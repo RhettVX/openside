@@ -1,0 +1,3 @@
+LIBRARY openside
+EXPORTS
+  openside_win_main
